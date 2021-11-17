@@ -7,3 +7,5 @@ directiv|explicatie
 #ifdef|daca fuctia a fost definita indeplineste codul pana la #endif
 #ifndef|daca fuctia nu a fost definita indeplineste codul pana la #endif
 #endif|sfârșit de cod de la #ifdef sau #ifndef
+#ifndef MATH_H | header guard
+#define MATH_H   
