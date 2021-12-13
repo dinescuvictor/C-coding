@@ -3,4 +3,4 @@
 + Biblioteci folosite pentru C++
 ## Tutorials:
 + https://ravesli.com/uroki-cpp/
-+ unde m-am oprit: https://ravesli.com/urok-25-razrabotka-vashih-pervyh-programm/
++ unde m-am oprit: https://ravesli.com/urok-28-detalnee-ob-initsializatsii-prisvaivanii-i-opredelenii/
